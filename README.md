@@ -27,11 +27,13 @@ theme.
   differeniate green from yellow in your terminal.
 
 ## Before
-[![before
+(See the dots in the upper-left corner? They look yellow, don't they?)
+![before
 screenshot](https://github.com/cap10morgan/solarized/raw/master/img/screen-iterm2-before.png)\
 
 ## After
-[![after
+(Notice the green dots in the upper-left corner are now visibly green.)
+![after
 screenshot](https://github.com/cap10morgan/solarized/raw/master/img/screen-iterm2-after.png)\
 
 Solarized
