@@ -9,6 +9,31 @@ modified: 2011 Apr 16
 
 ---
 
+This Fork
+=========
+
+I tweaked the iTerm 2 dark theme to fix a few issues w/ the upstream
+theme.
+
+* I made the selection color brighter so that it stands out more against
+  the dark background.
+* I made the "bright black" color brighter so that you can see it at
+  all. It used to be completely invisible against the background. This
+  is why RSpec's backtrace (for example) was invisble.
+* I made green "greener." The original green was too yellow, and it made
+  successful tests look like they were pending (in RSpec / Cucumber).
+  And in general, green means success and yellow means not quite success
+  but not quite failure either. So it's good to be able to easily
+  differeniate green from yellow in your terminal.
+
+## Before
+[![before
+screenshot](https://github.com/cap10morgan/solarized/raw/master/img/screen-iterm2-before.png)\
+
+## After
+[![after
+screenshot](https://github.com/cap10morgan/solarized/raw/master/img/screen-iterm2-after.png)\
+
 Solarized
 =========
 
